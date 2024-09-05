@@ -1,0 +1,120 @@
+*{
+    background-color: darkcyan;
+    padding: 50px;
+}
+.button-1{
+    background-color: #FD6569;
+    color: black;
+    border-radius: 100%;
+    padding-top: 20px;
+    padding-bottom: 20px;
+    padding-left: 30px;
+    padding-right: 30px;
+    font-size: 40px;
+    border: none;
+    right: 30px;   
+}
+.button-2{
+    background-color: #FD6569;
+    color: black;
+    border-radius: 100%;
+    padding-top: 20px;
+    padding-bottom: 20px;
+    padding-left: 30px;
+    padding-right: 30px;
+    font-size: 40px;
+    border: none;
+    right: 10%;    
+}
+.button-3{
+    background-color:#FD6569;
+    color: black;
+    border-radius: 100%;
+    padding-top: 20px;
+    padding-bottom: 20px;
+    padding-left: 30px;
+    padding-right: 30px;
+    font-size: 40px;
+    border: none;
+    right: 18%; 
+}
+.button-4{
+    background-color: #FD6569;
+    color: black;
+    border-radius: 100%;
+    padding-top: 20px;
+    padding-bottom: 20px;
+    padding-left: 30px;
+    padding-right: 30px;
+    font-size: 40px;
+    border: none;
+    right: 26%; 
+}
+.button-5{
+    background-color: #FD6569;
+    color: black;
+    border-radius: 100%;
+    padding-top: 20px;
+    padding-bottom: 20px;
+    padding-left: 30px;
+    padding-right: 30px;
+    font-size: 40px;
+    border: none;
+    right: 30px;
+}
+.button-6{
+    background-color: #FD6569;
+    color: black;
+    border-radius: 100%;
+    padding-top: 20px;
+    padding-bottom: 20px;
+    padding-left: 30px;
+    padding-right: 30px;
+    font-size: 40px;
+    border: none;
+    right: 10%;
+}
+.button-7{
+    background-color: #FD6569;
+    color: black;
+    border-radius: 100%;
+    padding-top: 20px;
+    padding-bottom: 20px;
+    padding-left: 30px;
+    padding-right: 30px;
+    font-size: 40px;
+    border: none;
+    right: 26%;
+}
+.button-8{
+    background-color: #FD6569;
+    color: black;
+    border-radius: 100%;
+    padding-top: 20px;
+    padding-bottom: 20px;
+    padding-left: 30px;
+    padding-right: 30px;
+    font-size: 40px;
+    border: none;
+    right: 26%;
+}
+.button-9{
+    background-color: #FD6569;
+    color: black;
+    border-radius: 100%;
+    padding-top: 20px;
+    padding-bottom: 20px;
+    padding-left: 30px;
+    padding-right: 30px;
+    font-size: 40px;
+    border: none;
+    right: 26%;
+}
+
+/*Media Query*/
+
+@media screen and (max-width:700px) {
+    *{
+       display: inline-block;
+    }
+}
